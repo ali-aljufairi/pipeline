@@ -2,25 +2,25 @@
 
 Modernized from Create React App → Vite.
 
-## Development
+## Development (Bun)
 
 ```bash
-npm install
-npm run dev
+bun install
+bun run dev
 ```
 
 ## Lint / Format
 
 ```bash
-npm run lint
-npm run format
+bun run lint
+bun run format
 ```
 
 ## Build / Preview
 
 ```bash
-npm run build
-npm run preview
+bun run build
+bun run preview
 ```
 
 ## Docker
